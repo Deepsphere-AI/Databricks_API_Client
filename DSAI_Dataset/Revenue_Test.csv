@@ -1,0 +1,3 @@
+source,destination,customer_type,product_type,source_wind,destination_wind,year,price_type,flight,promocode,date_time
+MAA,DXB,Frequent Flyer,Economy,0.1,0.54,2022,DISCOUNT FARE,Flight 102,promocode,2022-02-26 06:00:00
+MAA,DXB,Rare Flyer,Economy,0.3,0.86,2022,DISCOUNT FARE,Flight 102,promocode,2022-02-26 12:00:00
